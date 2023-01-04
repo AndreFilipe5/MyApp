@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <hi>Cenas Maradas</hi>
+        <hi>Contador</hi>
         <p>counter: {counter}</p>
         {/* <p>setcounter: {setcounter}</p> */}
         <button onClick={handleClickPlus}>+</button>
